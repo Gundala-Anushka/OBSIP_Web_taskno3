@@ -22,9 +22,9 @@ This is a simple and responsive Temperature Converter web application developed 
 ![Screenshot (65)](https://github.com/user-attachments/assets/7ccc4fcd-7d35-481d-9cbe-05a25dd32d90)
 
 ## 🎓 Internship Details
--**Program**: Web Development Internship
--**Organization**: Oasis Infobyte
--**Task**: Temperature Converter using HTML, CSS, and JS
+-**Program**: Web Development Internship <br>
+-**Organization**: Oasis Infobyte <br>
+-**Task**: Temperature Converter using HTML, CSS, and JS <br>
 
 ## 📬 Contact
 If you’d like to get in touch or have any feedback, feel free to connect:
