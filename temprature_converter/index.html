@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temprature Converter</title>
+     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="convert">
+            <h2 style="text-align: center;margin-bottom: 1.5rem;">Temprature Converter</h2>
+            <div class="input">
+                <label for="degrees">Degrees</label>
+                <input type="number" id="deg" placeholder="Enter value"/>
+            </div>
+            <div class="input">
+                <label for="from">From</label>
+                <select id="from">
+                    <option value="celsius">Celsius</option>
+                    <option value="fahrenheit">Fahrenheit</option>
+                    <option value="kelvin">Kelivn</option>
+                </select>
+            </div>
+            <div class="input">
+                <label for="to">To</label>
+                 <select id="to">
+                    <option value="celsius">Celsius</option>
+                    <option value="fahrenheit">Fahrenheit</option>
+                    <option value="kelvin">Kelivn</option>
+                </select>
+            </div>
+            <div class="input">
+                <label for="res">Result</label>
+                <input type="text" id="res"/>
+            </div>
+            <button onclick="convertTemp()">Convert</button>
+        </div>
+    </div>
+    <footer>
+    &copy; 2025 Gundala Anushka. Designed with care.
+  </footer>
+</body>
+</html> 
