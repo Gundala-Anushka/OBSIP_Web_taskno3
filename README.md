@@ -18,13 +18,13 @@ This is a simple and responsive Temperature Converter web application developed 
 
 ## 📸 Screenshots
 ![Screenshot (66)](https://github.com/user-attachments/assets/55ad5a4f-c1d7-4e6e-a53f-0f97c9051a76)
-![Screenshot (65)](https://github.com/user-attachments/assets/7ccc4fcd-7d35-481d-9cbe-05a25dd32d90)
 ![Screenshot (64)](https://github.com/user-attachments/assets/50a97150-cdf7-4b38-81c8-7a6231b7c64d)
+![Screenshot (65)](https://github.com/user-attachments/assets/7ccc4fcd-7d35-481d-9cbe-05a25dd32d90)
 
 ## 🎓 Internship Details
-**Program**: Web Development Internship
-**Organization**: Oasis Infobyte
-**Task**: Temperature Converter using HTML, CSS, and JS
+-**Program**: Web Development Internship
+-**Organization**: Oasis Infobyte
+-**Task**: Temperature Converter using HTML, CSS, and JS
 
 ## 📬 Contact
 If you’d like to get in touch or have any feedback, feel free to connect:
